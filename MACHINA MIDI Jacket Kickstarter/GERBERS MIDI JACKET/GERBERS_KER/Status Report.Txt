@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_KER_JPGA.PrjPcb]
+   Generated File[PCB_ker_jpga_ok-RoundHoles.TXT]
+   Generated File[PCB_ker_jpga_ok-SlotHoles.TXT]
+   Generated File[PCB_ker_jpga_ok.LDP]
+   Generated File[PCB_ker_jpga_ok.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:27:32 On 07/10/2013

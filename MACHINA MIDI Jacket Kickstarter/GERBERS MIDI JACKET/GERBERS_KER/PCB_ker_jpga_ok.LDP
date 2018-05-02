@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\JuanPe\Desktop\sergi altium-1\PCB_ker_jpga_ok.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_ker_jpga_ok-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_ker_jpga_ok-slotholes.txt|LayerPairs=gtl,gbl
